@@ -10,10 +10,12 @@ The University of Chicago
 ## Logistics:
 - Time: Tuesday and Thursday, 3:30am-4:50pm
 - Place: Eckhart room 133
-- Office hours: 
-    - Jimmy: Mon 1:30-2:30 (Jones 304)
-    - Sean: Wed 3:00-4:00 (Jones 304)
-    - Jinwen: Fri 10:00-11:00 (Jones 304)
+- TA office hours: 
+    - Jimmy: Mon 1:30-2:30pm (Jones 304)
+    - Sean: Wed 3:00-4:00pm (Jones 304)
+    - Jinwen: Fri 10:00-11:00am (Jones 304)
+- Instructor office hours:
+    - Aaron: Thurs 5:00-6:00pm (Searle 236)
 
 ## Assignments
 - [Assignment 1: Supervised learning](https://github.com/aschein/stat_348_2024/blob/main/assignments/hw1.ipynb). Due **Saturday March 30 at 11:59pm** on GradeScope. 
@@ -62,4 +64,13 @@ from an Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/A
 - Lecture materials: 
     - [Notebook](https://github.com/aschein/stat_348_2024/blob/main/lecture_materials/notebooks/W2_bayes_decision_theory.ipynb)
     - [iPad notes](https://github.com/aschein/stat_348_2024/blob/main/lecture_materials/ipad_notes/lecture_4_ipad.pdf)
+    
+### Lecture 5 (April): Conjugacy, exponential families, and information theory
+- Reading / resources:
+	- David Blei's  [lectures notes](https://www.cs.columbia.edu/~blei/fogm/2015F/notes/exponential-family.pdf) on conjugacy in exponential families
+	- Jeffrey Miller's  [slides](https://jwmi.github.io/BMB/3-Conjugate-priors.pdf) on conjugate priors
+	- Chap 14.3 of John Duchi's [lecture notes](https://anilkeshwani.github.io/files/John-Duchi-Statistics-311-Electrical-Engineering-377.pdf) on exponential families as maximum entropy distributions
+	- Chap 2.4-2.6 and 4.1-4.3 of Mackay (2005) [_Information Theory, Inference, and Learning Algorithms_](https://www.inference.org.uk/itprnn/book.pdf)
+- Lecture materials: 
+    - [iPad notes](https://github.com/aschein/stat_348_2024/blob/main/lecture_materials/ipad_notes/lecture_5_ipad.pdf)
 
